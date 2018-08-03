@@ -23,7 +23,7 @@ const importSpeakers = () => {
       return results;
     });
 };
-
+/*
 const importPreviousSpeakers = () => {
   const previousSpeakers = data.previousSpeakers;
   console.log('\tImporting', Object.keys(previousSpeakers).length, 'previous speakers...');
@@ -46,7 +46,7 @@ const importPreviousSpeakers = () => {
       return results;
     });
 };
-
+*/
 const importTeam = () => {
   const teams = data.team;
   console.log('\tImporting', Object.keys(teams).length, 'subteam...');
@@ -256,7 +256,7 @@ initializeFirebase()
   .then(() => importGallery())
   .then(() => importNotificationsConfig())
   .then(() => importPartners())
-  .then(() => importPreviousSpeakers())
+ // .then(() => importPreviousSpeakers())
   .then(() => importSchedule())
   .then(() => importSessions())
   .then(() => importSpeakers())

@@ -292,7 +292,7 @@ const speakersActions = {
       });
   },
 };
-
+/*
 const previousSpeakersActions = {
   fetchList: () => (dispatch) => {
     dispatch({
@@ -328,7 +328,7 @@ const previousSpeakersActions = {
       });
   },
 };
-
+*/
 const sessionsActions = {
   fetchList: () => (dispatch) => {
     dispatch({
