@@ -76,7 +76,7 @@ self.addEventListener('message', ({ data }) => {
         for (let subSessionIndex = 0; subSessionIndex < subSessionsLen; subSessionIndex++) {
           const sessionId = timeslot.sessions[sessionIndex].items[subSessionIndex];
           const subsession = sessionsRaw[sessionId];
-          const mainTag = subsession.tags ? subsession.tags[0] : 'General';
+          const mainTag = subsession && subsession.tags ? subsession.tags[0] : 'General';
           const endTimeRaw = timeslot.sessions[sessionIndex].extend
             ? day.timeslots[timeslotsIndex + timeslot.sessions[sessionIndex].extend - 1].endTime
             : timeslot.endTime;
@@ -93,7 +93,7 @@ self.addEventListener('message', ({ data }) => {
             ? sessions[timeslot.sessions[sessionIndex].items[subSessionIndex - 1]].endTime
             : timeslot.startTime;
 
-          if (subsession.tags) {
+          if (subsession && subsession.tags) {
             dayTags = [...new Set([...dayTags, ...subsession.tags])];
           }
           scheduleTags = addTagTo(scheduleTags || [], mainTag);
@@ -102,12 +102,14 @@ self.addEventListener('message', ({ data }) => {
             mainTag,
             id: sessionId.toString(),
             day: dayKey,
-            track: subsession.track || day.tracks[sessionIndex],
+            track: subsession && subsession.track || day.tracks[sessionIndex],
             startTime,
             endTime,
             duration: getDuration(dayKey, startTime, endTime),
             dateReadable: day.dateReadable,
-            speakers: subsession.speakers ? subsession.speakers.map((speakerId) => Object.assign({
+            speakers: subsession &&
+            subsession.speakers ?
+            subsession.speakers.map((speakerId) => Object.assign({
               id: speakerId,
             }, speakersRaw[speakerId], {
               sessions: null,
@@ -116,7 +118,7 @@ self.addEventListener('message', ({ data }) => {
 
           subSessions.push(finalSubSession);
           sessions[sessionId] = finalSubSession;
-          if (subsession.speakers) {
+          if (subsession && subsession.speakers) {
             speakers = Object.assign(
               {},
               speakers,
