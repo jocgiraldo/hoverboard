@@ -37,11 +37,6 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Equipo"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -52,14 +47,6 @@
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
-    },
-    "blog": {
-      "title": "Blog",
-      "metaDescription": "Lee historias de nuestro equipo",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
     },
     "speakers": {
       "title": "Exponentes",
@@ -198,9 +185,6 @@
   "contentLoaders": {
     "schedule": {
       "itemsCount": 2
-    },
-    "blog": {
-      "itemsCount": 3
     },
     "speakers": {
       "itemsCount": 4

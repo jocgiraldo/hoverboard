@@ -24,9 +24,6 @@
   "time": "Tiempo",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
-  "footer": {
-    "blog": "Blog"
-  },
   "mySchedule": {
     "title": "My horario",
     "browseSession": "Explorar sesiones"
@@ -141,17 +138,6 @@
     "callToAction": {
       "label": "Mirar videos",
       "link": "https://www.youtube.com/watch?v=mFtVEYY53xE&list=PLucoe4ynS535t7trk_PE2AcCx3wYkIrVs"
-    }
-  },
-  "blog": {
-    "published": "Publicado",
-    "suggested": "Hasta la próxima"
-  },
-  "latestPostsBlock": {
-    "title": "Las últimas noticias",
-    "callToAction": {
-      "label": "Ver todas las historias",
-      "link": "/blog/"
     }
   },
   "speakers": {
