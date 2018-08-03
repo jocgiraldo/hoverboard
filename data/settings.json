@@ -1,42 +1,42 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG Cali",
+    "twitter": "gdgcali",
+    "blog": "#",
+    "url": "http://gdgcali.com/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2018-09-23T09:08:00+03:00",
+  "endDate": "2018-09-23T19:20:00+03:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "es-CO"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "CaliDevFest18",
   "disabledSchedule": false,
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
+      "label": "Inicio"
     },
     {
       "route": "speakers",
       "permalink": "/speakers/",
-      "label": "Speakers"
+      "label": "Exponentes"
     },
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Agenda"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
+      "label": "Equipo"
     },
     {
       "route": "blog",
@@ -55,56 +55,56 @@
     },
     "blog": {
       "title": "Blog",
-      "metaDescription": "Read stories from our team",
+      "metaDescription": "Lee historias de nuestro equipo",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "speakers": {
-      "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "title": "Exponentes",
+      "metaDescription": "Escuche de Googlers, Partners y Guest Speakers que están construyendo el futuro de la nube. Vuelva a consultar a menudo a medida que agreguemos más oradores, incluidos nuestros clientes y socios.",
+      "description": "Escuche de Googlers, Partners y Guest Speakers que están construyendo el futuro de la nube. Vuelva a consultar a menudo a medida que agreguemos más oradores, incluidos nuestros clientes y socios.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
+      "title": "Exponentes anteriores",
+      "metaDescription": "Verifica quién estuvo con nosotros los últimos años",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
-      "metaDescription": "Choose your sessions to visit",
+      "title": "Agenda",
+      "metaDescription": "Elige tus sesiones para visitar",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "title": "Equipo",
+      "metaDescription": "Obtenga más información acerca de los organizadores",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "faq": {
-      "title": "FAQs",
-      "metaDescription": "Find you answer right here!",
+      "title": "Preguntas y respuestas",
+      "metaDescription": "Encuentra tu respuesta aquí!",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "cod": {
-      "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "title": "Codigo de conducta",
+      "metaDescription": "Obtenga más información sobre nuestras expectativas para todos los que participan en nuestra comunidad",
       "background": {
         "color": "#fff"
       },
@@ -112,21 +112,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "label": "Ubicación",
+    "name": "Camara de comercio de Cali",
+    "city": "Cali",
+    "short": "Cali, Colombia",
+    "address": "",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 3.451707,
+      "longitude": -76.535537,
+      "zoom": 10
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 3.451707,
+      "longitude": -76.535537
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "En la Cámara de Comercio de Cali cumplimos la función jurídica que nos delegó el Estado de registrar las empresas existentes en la ciudad de Cali y en los municipios de Dagua, Jamundí, La Cumbre, Vijes y Yumbo."
   },
   "mediaQueries": {
     "xs": {
@@ -148,19 +148,19 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/GDGCali/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/GDGCali/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/GDGCali"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCUOC59VlQffHumTrPh47NLg"
       }
     ],
     "share": [
@@ -178,7 +178,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "devfest@gdgcali.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
@@ -187,24 +187,12 @@
     "providersData": [
       {
         "name": "google",
-        "label": "Sign in with Google",
+        "label": "Inicia con google",
         "url": "https://accounts.google.com"
-      },
-      {
-        "name": "facebook",
-        "label": "Sign in with Facebook",
-        "url": "https://www.facebook.com"
-      },
-      {
-        "name": "twitter",
-        "label": "Sign in with Twitter",
-        "url": "https://twitter.com"
       }
     ],
     "allowedProvidersUrl": [
-      "https://accounts.google.com",
-      "https://www.facebook.com",
-      "https://twitter.com"
+      "https://accounts.google.com"
     ]
   },
   "contentLoaders": {
