@@ -26,7 +26,7 @@
     {
       "route": "speakers",
       "permalink": "/speakers/",
-      "label": "Exponentes"
+      "label": "Ponentes"
     },
     {
       "route": "schedule",
@@ -49,7 +49,7 @@
       "fontColor": "#FFF"
     },
     "speakers": {
-      "title": "Exponentes",
+      "title": "Ponentes",
       "metaDescription": "Escuche de Googlers, Partners y Guest Speakers que están construyendo el futuro de la nube. Vuelva a consultar a menudo a medida que agreguemos más oradores, incluidos nuestros clientes y socios.",
       "description": "Escuche de Googlers, Partners y Guest Speakers que están construyendo el futuro de la nube. Vuelva a consultar a menudo a medida que agreguemos más oradores, incluidos nuestros clientes y socios.",
       "background": {
@@ -58,7 +58,7 @@
       "fontColor": "#424242"
     },
     "previousSpeakers": {
-      "title": "Exponentes anteriores",
+      "title": "Ponentes anteriores",
       "metaDescription": "Verifica quién estuvo con nosotros los últimos años",
       "background": {
         "color": "#FFF"

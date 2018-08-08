@@ -54,12 +54,12 @@
       "links": [
         {
           "name": "Cali DevFest 2015",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "url": "#",
           "newTab": true
         },
         {
           "name": "Cali DevFest 2016",
-          "url": "https://dfua14.firebaseapp.com//",
+          "url": "#",
           "newTab": true
         }
       ]
@@ -102,15 +102,15 @@
         "number": "400"
       },
       "days": {
-        "label": "Días",
-        "number": "1"
+        "label": "Charlas",
+        "number": "13"
       },
       "sessions": {
-        "label": "Sesiones",
-        "number": "20"
+        "label": "Workshops",
+        "number": "2"
       },
       "tracks": {
-        "label": "Exponentes",
+        "label": "Ponentes",
         "number": "10"
       }
     }
@@ -146,16 +146,16 @@
     "previousYear": "Año"
   },
   "speakersBlock": {
-    "title": "Exponentes Rockstar",
+    "title": "Ponentes Rockstar",
     "callToAction": {
-      "label": "Mira todos los exponentes",
+      "label": "Mira todos los ponentes",
       "link": "/speakers/"
     }
   },
   "previousSpeakersBlock": {
-    "title": "Anteriores exponentes",
+    "title": "Anteriores ponentes",
     "callToAction": {
-      "label": "Todos exponentes",
+      "label": "Todos ponentes",
       "link": "/previous-speakers/"
     }
   },
@@ -197,7 +197,7 @@
     "contentLevel": "Nivel de contenido",
     "viewPresentation": "Mirar presentación",
     "viewVideo": "Mirar video",
-    "speakers": "Exponentes"
+    "speakers": "Ponentes"
   },
   "speakerDetails": {
     "sessions": "Sesiones"

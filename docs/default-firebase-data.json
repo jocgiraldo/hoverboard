@@ -1,5 +1,14 @@
 {
   "blog" : {
+    "c4p" : {
+    "backgroundColor" : "#3647a5",
+    "brief" : "GDG DevFest Ukraine was announced, for the sixth year in a row, the conference will bring together 900 developers, managers and...",
+    "content" : "GDG DevFest Ukraine was announced, for the sixth year in a row, the conference will bring together 900 developers, managers and entrepreneurs on **October 13-14** to Lviv.  This year our team is doing big advancement in the content, we're building an extra stage to accommodate more visitors and provide three fully independent tracks on Android, Web and Google Cloud topics.  Our focus is the content. **We’re looking for speakers like you**, who are ready to rock the stage and deliver the best talk or workshop in the field.  \"I've been to conferences all over the world and what you've created in Lviv is world class. It's easily first league of conferences.\" - Piotr Tuszynski, DevFest '16 Keynote Speaker  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>  ## Why is it cool to speak at the DevFest?  DevFest Ukraine is not an ordinary tech conference, besides selecting only the best speakers, we help them to succeed in delivering an exceptional quality talk on the stage.  Here are few perks that all our speakers get:  - **Expences covered**. Hotel for 3 nights, travel costs and entrance to exclusive speaker parties are covered for all speakers. - **Professional video recording**. We work with experienced video production companies to create session recording of the best quality. Stage, screen, audio, all is recorded separately and combined later. Check the [session videos from the last year](https://www.youtube.com/watch?v=VOwUnBkqmo4). - **Exposure**. By being a speaker, you are proving your level of expertise to a potential business partners or employers. Your talk will be promoted in our online resources and recording published in YouTube channel with more than 35k views. - **Unique networking**. Being a speaker means you’ll have the unique chance to network with other speakers - the best experts in the industry. - **Coaching**. We're in the same boat, after being selected as a speaker our program committee will help you to deliver the best talk possible. We provide information about the audience, presentation templates, feedback on the slides, all to help you to prepare.  \"It was a best DevFest I ever attended. So professional, so much enthusiasm from the community. You managed to bring the vibe of Google I/O to Ukraine.\" - David Vávra, DevFest '16 Speaker  ## What are we looking for?  We're looking for **experience-based talks**, the information that can not be found in the documentation or easily googled. We're looking for your stories, your struggles, research results and experiences with the frontier tools or technologies. Check the [list of topics](https://docs.google.com/document/d/18eGvBr6wdlXsfiZM4EK6SubfL3G1RWj-ABTBN9pngNg/edit?usp=sharing) we're interested in (it is not full and updated all the time).  ### Format  You can submit as many talks as you want. This year we accept submissions in two formats:   - 40 minutes sessions.   - 2(or 3) hours workshops.  ### Talks that will not pass initial review  - Talks about a specific tool/library/project explaining how it works or how to use it.  - Talks whose focus is pitching a company or project. It’s cool that you mention your company during the presentation, but it shouldn’t be the focus of the talk.  - Proposals that are not in English.  - Recruitment talks to attract talent.  We strongly recommend you check out [speaking.io](http://speaking.io/) website from Zach Holman. It includes good tips and guidelines for speakers.   ## Timeline  **Call for Papers submission deadline is July 1, 2017.** Submission results will be announced by July 16.   Any questions? Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>",
+    "image" : "/images/posts/c4p.jpg",
+    "published" : "2017-02-12",
+    "source" : "/data/posts/2017-02-12-c4p.md",
+    "title" : "We're looking for speakers"
+  }
   },
   "gallery" : [
     "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Eventos%20anteriores%2F11150854_418033148377056_8345189912046575584_n.jpg?alt=media&token=41a811b3-93ee-471b-bfe5-23fec1c2f335",
@@ -14,7 +23,7 @@
   "notifications" : {
     "config" : {
       "icon" : "",
-      "timezone" : "+03:00"
+      "timezone" : "-05:00"
     },
     "messages" : { },
     "subscribers" : { },
@@ -23,11 +32,19 @@
   },
   "partners" : [ {
     "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d5b814c6-9295-42fa-8f78-7c7f6ff33b2e",
+      "name" : "GDG",
+      "url" : "https://developers.google.com/programs/community/gdg/"
+    },  {
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGdgCali.png?alt=media&token=0fa1f98c-e0ec-410a-ac33-4ba95ec0d5fd",
       "name" : "GDG Cali",
-      "url" : "https://plus.google.com/102444623953913144164"
+      "url" : "https://gdgcali.com"
+    },  {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=d9601bb0-7182-41f9-ac50-0ab4b4936733",
+      "name" : "Google Developers Expert",
+      "url" : "https://developers.google.com/experts/"
     } ],
-    "title" : "Template Creator"
+    "title" : "Patrocinadores"
   }, {
     "logos" : [ {
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FTecnoparque.png?alt=media&token=ff20dba4-c78c-4845-a809-7019f290f97a",
@@ -38,10 +55,6 @@
       "name" : "El Lab Coworking",
       "url" : "https://el-lab.co/"
     }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Flogo-plural.desk.png?alt=media&token=3f484ba0-e441-4c2b-9f29-e78b22dcbc6b",
       "name" : "Plural Desk",
       "url" : "http://pluraldesk.com/"
@@ -50,7 +63,7 @@
       "name" : "DevHack",
       "url" : "http://devhack.co/"
     }],
-    "title" : "General Partner"
+    "title" : "Patrocinadores"
   } ],
   "schedule" : {
     "2018-09-29" : {
@@ -292,37 +305,63 @@
     }
   },
   "speakers" : {
-    "juan_guillermo_gomez" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Cali",
-        "link" : "https://gdgcali.com",
-        "name" : "gdg"
-      } ],
-      "bio" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
-      "company" : "DevHack",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Flogo-devhack.png?alt=media&token=85de8991-e00e-41d3-9a5b-b4d9a3791292",
+    "andres_gonzales" : {
+      "bio" : "Full Stack Web and Mobile developer specialized in Python/Django for backend and HTML5/CSS3, AngularJS for the front-end. Andres has worked in the design, architecture, implementation and deployment of custom solutions using Python/Django with great results. Obsessed for the performance of the applications by using the right technologies and following the best practices. Involved in the architecture of different projects where I have integrated Vagrant, Docker, Jenkins and Amazon Web Services in order to setup TDD and Continuous integration. Experience in CMS development for Wordpress and Drupal. Able to extend the core functionalities, creating custom plugins/modules and themes or integrate them with other services or applications. Love to work in teams using Agile Methodologies and ready to new challenges and learn every day more. Specialties: Web Development, server architecture,mobile development, robotics, entrepreneurship.",
+      "company" : "Google Developers Group",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
       "country" : "Cali, Colombia",
-      "featured" : true,
-      "name" : "Juan Guillermo Gomez",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Exponenetes%2FJuanGuillermoGomez.jpg?alt=media&token=0be24b1b-a1b4-405f-8a6b-608518e81cf2",
-      "shortBio" : "OpenStack Foundation member, Kubernetes upstream contributor and OpenStack special interest group lead in Kubernetes Community.",
+      "featured" : false,
+      "name" : "Andres Gonzales",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FAndresGonzalez.jpg?alt=media&token=03dd5f3b-2f36-45ca-8cf7-3e06d19b2c65",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FAndresGonzalez.jpg?alt=media&token=03dd5f3b-2f36-45ca-8cf7-3e06d19b2c65",
+      "shortBio" : "Full Stack Web and Mobile developer specialized in Python/Django for backend and HTML5/CSS3, AngularJS for the front-end. Andres has worked in the design, architecture, implementation and deployment of custom solutions using Python/Django with great results.",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+JuanGuillermoGomezTorres",
-        "name" : "Google+"
-      }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/jggomezt/",
+        "link" : "https://www.linkedin.com/in/andresgz/",
         "name" : "LinkedIn"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/jggomezt",
+        "link" : "https://twitter.com/andresgz00",
         "name" : "Twitter"
       }, {
         "icon" : "github",
-        "link" : "https://github.com/Janamou",
+        "link" : "https://github.com/swappsdev",
+        "name" : "GitHub"
+      } ],
+      "title" : "Ingeniero de sistemas"
+    },
+    "carlos_arturo_prieto" : {
+      "badges" : [ {
+        "description" : "Cloud Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/carlos-arturo-prieto",
+        "name" : "gde"
+      } ],
+      "bio" : "Ingeniero de Sistemas, Google Developer Expert, miembro del GDG Bogotá y Arquitecto Google Cloud Platform certificado. Con experiencia de mas de 10 años en diferentes campos del desarrollo de soluciones orientadas a internet entre los cuales se encuentra desarrollo, administración de requerimientos, análisis, diseño y especificación de arquitectura de software. Además de tener conocimientos específicos y experiencia de más de 5 años en arquitectura de software y desarrollo de productos multicapa orientadas a la nube con Google Cloud Platform y lenguajes de programación Python, Java, Javascript.",
+      "company" : "Google Developer Expert",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "country" : "Bogota, Colombia",
+      "featured" : true,
+      "name" : "Carlos Arturo Prieto",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FCarlosPrieto.jpg?alt=media&token=321f8536-274c-4fd3-9bb4-123f6db498d7",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FCarlosPrieto.jpg?alt=media&token=321f8536-274c-4fd3-9bb4-123f6db498d7",
+      "shortBio" : "Ingeniero de Sistemas, Google Developer Expert, miembro del GDG Bogotá y Arquitecto Google Cloud Platform certificado.",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+CarlosArturoPrietoRodriguez",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/carlos-prieto-04818911/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/cprietorod",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/cprietorod",
         "name" : "GitHub"
       } ],
       "title" : "Ingeniero de sistemas"
@@ -330,19 +369,24 @@
     "diego_coy" : {
       "badges" : [ {
         "description" : "Google Developers Group Bogotá",
-        "link" : "https://diegocoy.com/",
+        "link" : "https://www.facebook.com/pg/gdgbogota",
         "name" : "gdg"
+      },
+      {
+        "description" : "Web Technologies Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/diego-coy",
+        "name" : "gde"
       } ],
-      "bio" : "JavaScript developer working on the web platform. Mad about standards & performance, willing to try every new browser API.",
-      "company" : "Globant",
-      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Imagenes%2FGlobant-Logo.svg?alt=media&token=5f378112-61df-486a-ad2a-d17acb6d00ce",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Flogo-devhack.png?alt=media&token=85de8991-e00e-41d3-9a5b-b4d9a3791292",
+      "bio" : "Desarrollador web enfocado en web performance. JavaScripter dedicado a difundir conocimiento. Speaker y mentor.",
+      "company" : "Google Developer Expert",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
       "country" : "Bogotá, Colombia",
       "featured" : true,
       "name" : "Diego Coy",
       "photo" : "/images/people/ihor_dvoretskyi.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Imagenes%2Fdiego_coy.jpeg?alt=media&token=320ee277-7d14-45d3-956e-e0682a4efe7f",
-      "shortBio" : "Google Developer Expert, Microsoft MVP, JavaScript developer & community guy. Mostly sample repos that I use to show cool features at meetups & talks.",
+      "shortBio" : "Desarrollador web enfocado en web performance. JavaScripter dedicado a difundir conocimiento. Speaker y mentor.",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/u/0/+DiegoCoy",
@@ -362,16 +406,147 @@
       } ],
       "title" : "Ingeniero de sistemas"
     },
+    "juan_guillermo_gomez" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Cali",
+        "link" : "https://gdgcali.com",
+        "name" : "gdg"
+      },{
+        "description" : "Firebase Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/juan-guillermo-gomez-torres",
+        "name" : "gde"
+      } ],
+      "bio" : "Juan Guillermo is the co-organizer of several local events, such as GDG Cali, startup weekend Colombia and free software. He has been involved in the tech community for the past 6 years. He attends more than 10 events per year as a guest speaker throughout Latin America, where he speaks about mobile, cloud, firebase, entrepreneurship and innovation. In 2016, he co-founded the first hacker school in Cali (DevHack), where he teaches programming different technologies such as front-end, mobile and back-end. He was the CTO and co-founder of lead IS consulting, where he has developed and deployed enterprise software and mobile applications on Cloud Computing Platforms. He is an educator at DevHack and several Universities at Cali, Colombia. Juan is GDE (Google Developer Expert) in Firebase, holds a BS in System Engineering and a MS in Software Engineering at Universidad San Buenaventura Cali.",
+      "company" : "Google Developer Expert",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "country" : "Cali, Colombia",
+      "featured" : true,
+      "name" : "Juan Guillermo Gomez",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FJuanGuillermoGomez.jpg?alt=media&token=9ef09ad5-e1ae-4408-b3e5-ed1bc70fa66d",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FJuanGuillermoGomez.jpg?alt=media&token=9ef09ad5-e1ae-4408-b3e5-ed1bc70fa66d",
+      "shortBio" : "Juan Guillermo is the co-organizer of several local events, such as GDG Cali, startup weekend Colombia and free software. He has been involved in the tech community for the past 6 years. He attends more than 10 events per year as a guest speaker throughout Latin America, where he speaks about mobile, cloud, firebase, entrepreneurship and innovation.",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+JuanGuillermoGomezTorres",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/jggomezt/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jggomezt",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/jggomez",
+        "name" : "GitHub"
+      } ],
+      "title" : "Ingeniero de sistemas"
+    },
+    "jose_david_giraldo" : {
+      "bio" : "Jose Giraldo, desarrollador movil y web, mas de 5 años en desarrollo de aplicaciones android, y creación de paginas web con wordpress. Experto en firebase, java, php, linux, javascript, conocimientos en UI/UX, creador de aplicaciones para empresas como Movistar y Coomeva, creador de la  aplicación android Parkeep, cofundador de la startup Plural Desk y coorganizador de la comunidad GDGCali.",
+      "company" : "Google Developers Group",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
+      "country" : "Cali, Colombia",
+      "featured" : false,
+      "name" : "Jose Giraldo",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FJoseDavidGiraldo.png?alt=media&token=939268fe-6267-4f35-88b9-50a6c94aa95b",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FJoseDavidGiraldo.png?alt=media&token=939268fe-6267-4f35-88b9-50a6c94aa95b",
+      "shortBio" : "Jose Giraldo, desarrollador movil y web, mas de 5 años en desarrollo de aplicaciones android, y creación de paginas web con wordpress.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/jocgiraldo/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jocgiraldo",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/jocgiraldo",
+        "name" : "GitHub"
+      } ],
+      "title" : "Desarrollador"
+    },
+    "manuel_zapata" : {
+      "bio" : "Ingeniero de sistemas que vive de escribir código desde el año 2005. Ha trabajado como desarrollador y arquitecto de software en distintos proyectos en Latinoamérica, Estados Unidos, Europa e India. Actualmente, está dedicado a enseñar a profesionales de tecnología como convertirse en arquitectos de software.",
+      "company" : "Google Developers Group",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
+      "country" : "Cali, Colombia",
+      "featured" : false,
+      "name" : "Manuel Zapata",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FManuel_Zapata.jpg?alt=media&token=e6ead33e-1c81-48c9-82a0-865aaaa4e710",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FManuel_Zapata.jpg?alt=media&token=e6ead33e-1c81-48c9-82a0-865aaaa4e710",
+      "shortBio" : "Ingeniero de sistemas que vive de escribir código desde el año 2005. Ha trabajado como desarrollador y arquitecto de software en distintos proyectos en Latinoamérica, Estados Unidos, Europa e India.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/manuelricardozapata/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ManuelZapatar",
+        "name" : "Twitter"
+      }, {
+        "icon" : "youtube",
+        "link" : "https://www.youtube.com/channel/UCs5ccxrTx9k8DN9YXnHm5AQ",
+        "name" : "Youtube"
+      } ],
+      "title" : "Ingeniero de sistemas"
+    },
+    "nicolas_bianchi" : {
+      "badges" : [ {
+        "description" : "UX Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/nicolas-bianchi",
+        "name" : "gde"
+      } ],
+      "bio" : "Nicolás is a User Experience Designer and Researcher. He has worked for more than 10 years in advertising agencies, software and technology companies, developing digital marketing and design strategies for these companies and their clients. This has allowed him to be able to comprehend widely the different processes and mechanics of work in the area of ​​marketing and product development.",
+      "company" : "Google Developer Expert",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "country" : "Montevideo, Uruguay",
+      "featured" : true,
+      "name" : "Nicolas Bianchi",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FNicolasBianchi.jpg?alt=media&token=b8ea982b-942d-4b47-863e-1cbdd01807b5",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FNicolasBianchi.jpg?alt=media&token=b8ea982b-942d-4b47-863e-1cbdd01807b5",
+      "shortBio" : "Nicolás is a User Experience Designer and Researcher. He has worked for more than 10 years in advertising agencies, software and technology companies, developing digital marketing and design strategies for these companies and their clients. This has allowed him to be able to comprehend widely the different processes and mechanics of work in the area of ​​marketing and product development.",
+      "socials" : [{
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+Nicol%C3%A1sBianchiFalco",
+        "name" : "Google+"
+      } ,{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/nicolasbianchi1/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/nicobf",
+        "name" : "Twitter"
+      },{
+        "icon" : "medium",
+        "link" : "https://medium.com/@nicobf",
+        "name" : "Medium"
+      }
+     ],
+      "title" : "Ingeniero de sistemas"
+    },
     "santiago_carrillo" : {
       "badges" : [ {
         "description" : "Google Developers Group Bogotá",
-        "link" : "https://www.linkedin.com/in/sancarbar/",
+        "link" : "https://www.facebook.com/pg/gdgbogota",
         "name" : "gdg"
+      },{
+        "description" : "Android Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/santiago-carrillo",
+        "name" : "gde"
       } ],
       "bio" : "Ingeniero de Sistemas y MSc en Ingeniería de Software de la Universidad de Amsterdam. Apasionado por el emprendimiento y desarrollo móvil. Cuento con 5+ años de experiencia en desarrollo de aplicaciones para Android en varios países y mercados.",
-      "company" : "Globant",
-      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Imagenes%2FGlobant-Logo.svg?alt=media&token=5f378112-61df-486a-ad2a-d17acb6d00ce",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Flogo-devhack.png?alt=media&token=85de8991-e00e-41d3-9a5b-b4d9a3791292",
+      "company" : "Google Developer Expert",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
       "country" : "Bogotá, Colombia",
       "featured" : true,
       "name" : "Santiago Carrillo",
@@ -397,123 +572,13 @@
       } ],
       "title" : "Ingeniero de sistemas"
     },
-    "manuel_zapata" : {
-      "badges" : [ {
-        "description" : "Xamarin Cali",
-        "link" : "https://www.linkedin.com/in/sancarbar/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Ingeniero de Sistemas y MSc en Ingeniería de Software de la Universidad de Amsterdam. Apasionado por el emprendimiento y desarrollo móvil. Cuento con 5+ años de experiencia en desarrollo de aplicaciones para Android en varios países y mercados.",
-      "company" : "Manuel Zapata",
-      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Imagenes%2FGlobant-Logo.svg?alt=media&token=5f378112-61df-486a-ad2a-d17acb6d00ce",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Flogo-devhack.png?alt=media&token=85de8991-e00e-41d3-9a5b-b4d9a3791292",
-      "country" : "Cali, Colombia",
-      "featured" : true,
-      "name" : "Manuel Zapata",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://secure.meetupstatic.com/photos/member/e/7/9/e/highres_268859294.jpeg",
-      "shortBio" : "Ingeniero de Sistemas y MSc en Ingeniería de Software de la Universidad de Amsterdam. Apasionado por el emprendimiento y desarrollo móvil. Cuento con 5+ años de experiencia en desarrollo de aplicaciones para Android en varios países y mercados.",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://www.linkedin.com/in/sancarbar/",
-        "name" : "Google+"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/sancarbar/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/sancarbar",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/sancarbar",
-        "name" : "GitHub"
-      } ],
-      "title" : "Ingeniero de sistemas"
-    },
-    "nicolas_bianchi" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Bogotá",
-        "link" : "https://www.linkedin.com/in/sancarbar/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Ingeniero de Sistemas y MSc en Ingeniería de Software de la Universidad de Amsterdam. Apasionado por el emprendimiento y desarrollo móvil. Cuento con 5+ años de experiencia en desarrollo de aplicaciones para Android en varios países y mercados.",
-      "company" : "Globant",
-      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Imagenes%2FGlobant-Logo.svg?alt=media&token=5f378112-61df-486a-ad2a-d17acb6d00ce",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Flogo-devhack.png?alt=media&token=85de8991-e00e-41d3-9a5b-b4d9a3791292",
-      "country" : "Bogotá, Colombia",
-      "featured" : true,
-      "name" : "Nicolas Bianchi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://secure.meetupstatic.com/photos/member/e/7/9/e/highres_268859294.jpeg",
-      "shortBio" : "Product Strategy.",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://www.linkedin.com/in/sancarbar/",
-        "name" : "Google+"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/nicolasbianchi1/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/sancarbar",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/sancarbar",
-        "name" : "GitHub"
-      } ],
-      "title" : "Ingeniero de sistemas"
-    },
-    "andres_gonzales" : {
-      "badges" : [ {
-        "description" : "Python Cali",
-        "link" : "https://www.linkedin.com/in/sancarbar/",
-        "name" : "Python"
-      } ],
-      "bio" : "Ingeniero de Sistemas y MSc en Ingeniería de Software de la Universidad de Amsterdam. Apasionado por el emprendimiento y desarrollo móvil. Cuento con 5+ años de experiencia en desarrollo de aplicaciones para Android en varios países y mercados.",
-      "company" : "Python",
-      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Imagenes%2FGlobant-Logo.svg?alt=media&token=5f378112-61df-486a-ad2a-d17acb6d00ce",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Flogo-devhack.png?alt=media&token=85de8991-e00e-41d3-9a5b-b4d9a3791292",
-      "country" : "Cali, Colombia",
-      "featured" : true,
-      "name" : "Andres Gonzales",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://secure.meetupstatic.com/photos/member/e/7/9/e/highres_268859294.jpeg",
-      "shortBio" : "Product Strategy.",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://www.linkedin.com/in/sancarbar/",
-        "name" : "Google+"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/nicolasbianchi1/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/sancarbar",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/sancarbar",
-        "name" : "GitHub"
-      } ],
-      "title" : "Ingeniero de sistemas"
-    },
     "william_penagos" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Cali",
-        "link" : "https://www.oiga.com",
-        "name" : "Oiga"
-      } ],
       "bio" : "Apasionado por escribir código, soy desarrollador de Software FullStack con JavaScript y Python, tengo conocimiento de amplias tecnologías como ReactJS, Angular, VueJS, NodeJS, RabbitMQ, el stack de herramientas de Firebase y AWS, entre otras. Soy lider del GDG Cali y me apaciona compartir mi conocimiento en las comunidades de desarrolladores, tengo una basta habilidad 7 años de experiencia para desarrollar Aplicaciones Web Progresivas y algoritmos de optimización en código.",
-      "company" : "Oiga Technologies",
-      "companyLogo" : "https://www.datasciencefem.com/static/img/logos/oiga.png",
-      "companyLogoUrl" : "https://www.datasciencefem.com/static/img/logos/oiga.png",
+      "company" : "Google Developers Group",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
       "country" : "Cali, Colombia",
-      "featured" : true,
+      "featured" : false,
       "name" : "William Penagos",
       "photo" : "/images/people/ihor_dvoretskyi.jpg",
       "photoUrl" : "https://avatars2.githubusercontent.com/u/6068654?v=4",
