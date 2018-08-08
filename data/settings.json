@@ -100,7 +100,7 @@
   },
   "location": {
     "label": "Ubicación",
-    "name": "Camara de comercio de Cali",
+    "name": "POR DEFINIR",
     "city": "Cali",
     "short": "Cali, Colombia",
     "address": "",
@@ -113,7 +113,7 @@
       "latitude": 3.451707,
       "longitude": -76.535537
     },
-    "description": "En la Cámara de Comercio de Cali cumplimos la función jurídica que nos delegó el Estado de registrar las empresas existentes en la ciudad de Cali y en los municipios de Dagua, Jamundí, La Cumbre, Vijes y Yumbo."
+    "description": "POR DEFINIR"
   },
   "mediaQueries": {
     "xs": {
