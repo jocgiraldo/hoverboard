@@ -221,7 +221,7 @@
     "blocks": [
       {
         "title": "Organizadores",
-        "description": "<a href='http://gdgcali.com' target='_blank'>GDG Cali</a> con el apoyo de 5 GDG de todo Colombia es un orgulloso organizador de DevFest Cali",
+        "description": "<a href='http://gdgcali.com' target='_blank'>GDG Cali</a>",
         "callToAction": {
           "label": "Conoce a los organizadores",
           "link": "/team"

@@ -107,7 +107,13 @@
           "items" : [ 107 ]
         } ],
         "startTime" : "11:30"
-      }, {
+      },  {
+        "endTime" : "14:00",
+        "sessions" : [ {
+          "items" : [ 115 ]
+        } ],
+        "startTime" : "12:00"
+      },{
         "endTime" : "14:00",
         "sessions" : [ {
           "items" : [ 300 ]
@@ -179,17 +185,17 @@
     },
     "102" : {
       "complexity" : "Beginner",
-      "description" : " ",
+      "description" : "Los sistemas desplegados en la nube deben seguir algunas consideraciones de diseño y arquitectura, que garanticen su correcto funcionamiento y mantenimiento, además de que optimicen costos y recursos. Esta charla pretende introducir las consideraciones más importantes de arquitectura para estos sistemas, y los mecanismos que ofrece Google Cloud para implementarlas.",
       "language" : "Spanish",
       "speakers" : [ "manuel_zapata" ],
       "tags" : [ "Web" ],
-      "title" : "WEB"
+      "title" : "Arquitectura para sistemas en la nube con Google Cloud"
     },
     "103" : {
       "complexity" : "Intermediate",
       "description" : " ",
       "language" : "Spanish",
-      "speakers" : [ "carlos_prieto" ],
+      "speakers" : [ "carlos_arturo_prieto" ],
       "tags" : [ "Cloud" ],
       "title" : "Cloud"
     },
@@ -225,11 +231,11 @@
     },
     "107" : {
       "complexity" : "Beginner",
-      "description" : " ",
+      "description" : "Una charla acerca de lo último en PWA, lo que se habló de ellas en el Google I/O y un vistazo al soporte generals",
       "language" : "Spanish",
       "speakers" : [ "diego_coy" ],
       "tags" : [ "Web" ],
-      "title" : "Introduction to Progressive Web Apps in Angular 2"
+      "title" : "Aplicaciones Web Progresivas (PWA) - Y eso con qué se come?"
     },
     "300" : {
       "description" : "Fooooooood!",
@@ -254,19 +260,19 @@
     },
     "110" : {
       "complexity" : "Intermediate",
-      "description" : " ",
+      "description" : "Una muestra de como se puede realizar un proceso automático de despliegue de aplicaciones  con las herramientas de GCP ",
       "language" : "Spanish",
-      "speakers" : [ "carlos_prieto" ],
+      "speakers" : [ "carlos_arturo_prieto" ],
       "tags" : [ "Cloud" ],
-      "title" : "The ultimate guide to MVP pattern on Cloud"
+      "title" : "CI/CD con GCP"
     },
     "111" : {
       "complexity" : "Intermediate",
-      "description" : " ",
+      "description" : "En varias ocasiones nos ha tocado crear tareas que se ejecuten en segundo plano en Android, para ello hemos creado desde servicios, pasando por JobScheduler hasta usando AlarmManager. Sin embargo cada solución ha tenido un problema o restricción que no ha llegado a una satisfacción por completa. Es pos eso que el equipo de Android de Google lanzo este año el Workmanager  un componente de arquitectura que hace parte del Android Jetpack el cual permite ejecutar tareas en background de forma segura y robusta. En esta conferencia hablaremos de las soluciones actuales y como pasar a workmanager conociendo sus beneficios y flexibilidad.",
       "language" : "Spanish",
       "speakers" : [ "juan_guillermo_gomez" ],
       "tags" : [ "Firebase" ],
-      "title" : "Building modular architecture apps with Firebase"
+      "title" : "Tareas en background  en Android de formar robusta con el WorkManager"
     },
     "112" : {
       "complexity" : "Intermediate",
@@ -292,11 +298,19 @@
     },
     "114" : {
       "complexity" : "Intermediate",
+      "description" : "Conoce el sistema de navegación de google maps para android en tiempo real con firebase. Aprende a crear una aplicación como Uber o Rappi. ",
+      "language" : "Spanish",
+      "speakers" : [ "jose_david_giraldo" ],
+      "tags" : [ "Android" ],
+      "title" : "Sistema de navegacion en tiempo real"
+    },
+    "115" : {
+      "complexity" : "Intermediate",
       "description" : " ",
       "language" : "Spanish",
-      "speakers" : [ "jose_giraldo" ],
-      "tags" : [ "Android" ],
-      "title" : "I’ve been doing some syncing…"
+      "speakers" : [ "frank_nicols" ],
+      "tags" : [ "Ilusionista" ],
+      "title" : "La magia del emprender"
     },
     "500" : {
       "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
@@ -307,9 +321,9 @@
   "speakers" : {
     "andres_gonzales" : {
       "bio" : "Full Stack Web and Mobile developer specialized in Python/Django for backend and HTML5/CSS3, AngularJS for the front-end. Andres has worked in the design, architecture, implementation and deployment of custom solutions using Python/Django with great results. Obsessed for the performance of the applications by using the right technologies and following the best practices. Involved in the architecture of different projects where I have integrated Vagrant, Docker, Jenkins and Amazon Web Services in order to setup TDD and Continuous integration. Experience in CMS development for Wordpress and Drupal. Able to extend the core functionalities, creating custom plugins/modules and themes or integrate them with other services or applications. Love to work in teams using Agile Methodologies and ready to new challenges and learn every day more. Specialties: Web Development, server architecture,mobile development, robotics, entrepreneurship.",
-      "company" : "Google Developers Group",
-      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
+      "company" : "Python Cali",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FpythonCalijpg.jpg?alt=media&token=612d6563-e748-4918-a863-95f5ab6ade31",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FpythonCalijpg.jpg?alt=media&token=612d6563-e748-4918-a863-95f5ab6ade31",
       "country" : "Cali, Colombia",
       "featured" : false,
       "name" : "Andres Gonzales",
@@ -344,8 +358,8 @@
       "country" : "Bogota, Colombia",
       "featured" : true,
       "name" : "Carlos Arturo Prieto",
-      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FCarlosPrieto.jpg?alt=media&token=321f8536-274c-4fd3-9bb4-123f6db498d7",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FCarlosPrieto.jpg?alt=media&token=321f8536-274c-4fd3-9bb4-123f6db498d7",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FCarlosPrieto.jpg?alt=media&token=9b2610ba-ca90-4a9f-9203-d39a0299bb5f",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FCarlosPrieto.jpg?alt=media&token=9b2610ba-ca90-4a9f-9203-d39a0299bb5f",
       "shortBio" : "Ingeniero de Sistemas, Google Developer Expert, miembro del GDG Bogotá y Arquitecto Google Cloud Platform certificado.",
       "socials" : [ {
         "icon" : "gplus",
@@ -405,6 +419,32 @@
         "name" : "GitHub"
       } ],
       "title" : "Ingeniero de sistemas"
+    },
+    "frank_nicols" : {
+      "bio" : "Frank Nicols es un joven Administrador de empresas, nació el 6 de mayo en 1988, en la ciudad de Cali, Colombia. Apasionado por el mundo de la ilusión y su fuerte es la Magia de gran impacto para eventos corporativos, con una trayectoria de más de 16 años, este hobby que comenzó a los 9 años se convirtió en una pasión desbordante que brota por sus venas. Ha sido nominado a los premios “Tiempo Real TV” del canal Telepacifico como “Mejor perfil artístico en el 2008”. Ganador del campeonato “Noches de Magia” llevado a cabo en Medellín en el 2009, categoría Close – Up. Es socio fundador de la asociación de Magos de Cali y vicepresidente hasta el 2010. Participo en “Colombia tiene Talento”, reality del canal RCN. Represento a Colombia en el primer festival Mundial de Magia en Cali 2013 y este 2014 vuelve a este gran festival como invitado de Colombia.",
+      "company" : "Frank Nicols",
+      "companyLogo" : "http://franknicols.com/wp-content/uploads/2018/03/frank-logo-en-negro.png",
+      "companyLogoUrl" : "http://franknicols.com/wp-content/uploads/2018/03/frank-logo-en-negro.png",
+      "country" : "Cali, Colombia",
+      "featured" : false,
+      "name" : "Frank Nicols",
+      "photo" : "http://franknicols.com/wp-content/uploads/2018/03/23.png",
+      "photoUrl" : "http://franknicols.com/wp-content/uploads/2018/03/23.png",
+      "shortBio" : "Frank Nicols es un joven Administrador de empresas, nació el 6 de mayo en 1988, en la ciudad de Cali, Colombia. Apasionado por el mundo de la ilusión y su fuerte es la Magia de gran impacto para eventos corporativos, con una trayectoria de más de 16 años",
+      "socials" : [ {
+        "icon" : "instagram",
+        "link" : "https://www.instagram.com/frank.ilusionista/",
+        "name" : "Instagram"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/magofranknicols",
+        "name" : "Twitter"
+      }, {
+        "icon" : "youtube",
+        "link" : "https://www.youtube.com/channel/UC07Zl5eVIhcXdXklWAPSBRQ/",
+        "name" : "Youtube"
+      } ],
+      "title" : "Ilusionista"
     },
     "juan_guillermo_gomez" : {
       "badges" : [ {
@@ -473,9 +513,9 @@
     },
     "manuel_zapata" : {
       "bio" : "Ingeniero de sistemas que vive de escribir código desde el año 2005. Ha trabajado como desarrollador y arquitecto de software en distintos proyectos en Latinoamérica, Estados Unidos, Europa e India. Actualmente, está dedicado a enseñar a profesionales de tecnología como convertirse en arquitectos de software.",
-      "company" : "Google Developers Group",
-      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
+      "company" : "Xamarin Cali",
+      "companyLogo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/1200px-Xamarin-logo.svg.png",
+      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/1200px-Xamarin-logo.svg.png",
       "country" : "Cali, Colombia",
       "featured" : false,
       "name" : "Manuel Zapata",
@@ -832,42 +872,7 @@
       "title" : "Developer"
     }
    ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      } ],
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Dmytro Danylyk",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "title" : "Android Stream"
-    } ],
-    "title" : "Program Committee"
+    "title" : "Organizadores"
   } ],
 "tickets" : [ {
     "available" : true,
@@ -878,7 +883,7 @@
     "price" : 0,
     "soldOut" : false,
     "starts" : "Agosto 1",
-    "url" : "#"
+    "url" : "https://www.eventbrite.com/e/devfest-cali-2018-tickets-48863196135"
   } ],
   "triggers" : {
     "images" : false
