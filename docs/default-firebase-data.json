@@ -600,7 +600,8 @@
     }
   },
   "team" : [ {
-    "members" : [ {
+    "members" : [ 
+    {
       "name" : "Jose David Giraldo",
       "photo" : "/images/people/oleh_zasadnyy.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Exponenetes%2FJoseDavidGiraldo.png?alt=media&token=ef42be75-de2b-4ce7-a87c-4ef6abd11a46",
@@ -645,6 +646,190 @@
         "name" : "Instagram"
     } ],
       "title" : "Web Developer"
+    },
+    {
+      "name" : "Juan Guillermo Gomez",
+      "photo" : "/images/people/ihor_dvoretskyi.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Exponenetes%2FJuanGuillermoGomez.jpg?alt=media&token=0be24b1b-a1b4-405f-8a6b-608518e81cf2",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+JuanGuillermoGomezTorres",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/jggomezt/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jggomezt",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/Janamou",
+        "name" : "GitHub"
+      } ],
+      "title" : "Google Expert Firebase"
+    },
+    {
+      "name" : "Jose Berna",
+      "photo" : "/images/people/ihor_dvoretskyi.jpg",
+      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/",
+        "name" : "GitHub"
+      } ],
+      "title" : "Android Developer"
+    },
+    {
+      "name" : "Camilo Andres Alzate",
+      "photo" : "/images/people/ihor_dvoretskyi.jpg",
+      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+CamiloAlzate",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/camilo-andres-alzate-gonzalez-83340362",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/caag_1991",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/caalzate91",
+        "name" : "GitHub"
+      } ],
+      "title" : "Developer FullStack"
+    },
+    {
+      "name" : "Jose Luis Peña",
+      "photo" : "/images/people/ihor_dvoretskyi.jpg",
+      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/",
+        "name" : "GitHub"
+      } ],
+      "title" : "Android Developer"
+    },
+    {
+      "name" : "Carlos F. Arboleda",
+      "photo" : "/images/people/ihor_dvoretskyi.jpg",
+      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/",
+        "name" : "GitHub"
+      } ],
+      "title" : "Android Developer"
+    },
+    {
+      "name" : "Johnatan",
+      "photo" : "/images/people/ihor_dvoretskyi.jpg",
+      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/",
+        "name" : "GitHub"
+      } ],
+      "title" : "Android Developer"
+    },
+    {
+      "name" : "Stiven",
+      "photo" : "/images/people/ihor_dvoretskyi.jpg",
+      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/",
+        "name" : "GitHub"
+      } ],
+      "title" : "Designer"
+    },
+    {
+      "name" : "Luis Alberto Sinisterrra",
+      "photo" : "/images/people/ihor_dvoretskyi.jpg",
+      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/",
+        "name" : "Google"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/",
+        "name" : "GitHub"
+      } ],
+      "title" : "Developer"
     }
    ],
     "title" : "Core Team"
