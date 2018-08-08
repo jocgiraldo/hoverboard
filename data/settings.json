@@ -50,8 +50,8 @@
     },
     "speakers": {
       "title": "Ponentes",
-      "metaDescription": "Escuche de Googlers, Partners y Guest Speakers que están construyendo el futuro de la nube. Vuelva a consultar a menudo a medida que agreguemos más oradores, incluidos nuestros clientes y socios.",
-      "description": "Escuche ponentes de Google developers experts, desarrolladores, programadores y mira que estan construyendo para el futuro de la nube.",
+      "metaDescription": "Escuche de Googlers, Partners y Guest Speakers que están construyendo el futuro de la nube.",
+      "description": "Comparte con nuestros Google Experts y desarrolladores con una basta experiencia y trayectoria a nivel nacional he internacional, de todas las áreas del desarrollo y la programación de software",
       "background": {
         "color": "#FFF"
       },

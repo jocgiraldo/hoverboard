@@ -231,7 +231,7 @@
     },
     "107" : {
       "complexity" : "Beginner",
-      "description" : "Una charla acerca de lo último en PWA, lo que se habló de ellas en el Google I/O y un vistazo al soporte generals",
+      "description" : "Una charla acerca de lo último en PWA, lo que se habló de ellas en el Google I/O y un vistazo al soporte general",
       "language" : "Spanish",
       "speakers" : [ "diego_coy" ],
       "tags" : [ "Web" ],
