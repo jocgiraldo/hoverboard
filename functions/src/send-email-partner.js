@@ -36,19 +36,19 @@ const sendEmailPatner = functions.firestore.document('/potentialPartners/{id}')
       },
     };
 
-    const email = "";
+    const email = "devfest@gdgcali.com";
 
     return sendEmailPotentialPatner(email, subscriberData);
   });
 
-  function sendWelcomeEmail(email, displayName) {
+  function sendEmailPotentialPatner(email, displayName) {
 
     const mailOptions = {
         from: '"Nuevo patrocinador" <devfest@gdgcali.com>',
         to: email
     };
 
-    mailOptions.subject = `Te damos la bienvenida a ${APP_NAME}!`;
+    mailOptions.subject = `Nuevo patrocinador`;
     mailOptions.html = ``
 
     return mailTransport.sendMail(mailOptions).then(() => {
@@ -58,4 +58,4 @@ const sendEmailPatner = functions.firestore.document('/potentialPartners/{id}')
     });
 }
 
-export default mailchimpSubscribe;
+export default sendEmailPatner;
