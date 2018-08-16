@@ -17,8 +17,7 @@
   },
   "hashtag": "CaliDevFest18",
   "disabledSchedule": false,
-  "navigation": [
-    {
+  "navigation": [{
       "route": "home",
       "permalink": "/",
       "label": "Inicio"
@@ -100,20 +99,20 @@
   },
   "location": {
     "label": "Ubicación",
-    "name": "POR DEFINIR",
+    "name": "Universidad Santiago de Cali",
     "city": "Cali",
     "short": "Cali, Colombia",
-    "address": "",
+    "address": "Calle 5 # 62-00 Barrio Pampalinda",
     "pointer": {
-      "latitude": 3.451707,
-      "longitude": -76.535537,
+      "latitude": 3.403156,
+      "longitude": -76.547350,
       "zoom": 10
     },
     "mapCenter": {
-      "latitude": 3.451707,
-      "longitude": -76.535537
+      "latitude": 3.403156,
+      "longitude": -76.547350
     },
-    "description": "POR DEFINIR"
+    "description": "Universidad Santiago de Cali"
   },
   "mediaQueries": {
     "xs": {
@@ -132,8 +131,7 @@
     }
   },
   "socialNetwork": {
-    "follow": [
-      {
+    "follow": [{
         "name": "facebook",
         "url": "https://www.facebook.com/GDGCali/"
       },
@@ -150,8 +148,7 @@
         "url": "https://www.youtube.com/channel/UCUOC59VlQffHumTrPh47NLg"
       }
     ],
-    "share": [
-      {
+    "share": [{
         "name": "gplus",
         "url": "https://plus.google.com/share?url="
       },
@@ -171,13 +168,11 @@
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "signInProviders": {
-    "providersData": [
-      {
-        "name": "google",
-        "label": "Inicia con google",
-        "url": "https://accounts.google.com"
-      }
-    ],
+    "providersData": [{
+      "name": "google",
+      "label": "Inicia con google",
+      "url": "https://accounts.google.com"
+    }],
     "allowedProvidersUrl": [
       "https://accounts.google.com"
     ]

@@ -24,15 +24,16 @@
   "time": "Tiempo",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
+  "url": "https://devfest.gdgcali.com",
+  "seoDescription": "GDG DevFest 2018 Cali es un evento que promueve desde el desarrollo tecnológico el potencial emprendedor de la región y el país.",
+  "socialImage": "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Imagenes%2Ffacebook-og.jpg?alt=media&token=2d69053f-ec8e-40da-bd6b-748dd0573090",
   "mySchedule": {
-    "title": "My horario",
+    "title": "Mi horario",
     "browseSession": "Explorar sesiones"
   },
-  "footerRelBlock": [
-    {
+  "footerRelBlock": [{
       "title": "Nosotros",
-      "links": [
-        {
+      "links": [{
           "name": "GDG Cali",
           "url": "http://gdgcali.com/",
           "newTab": true
@@ -51,8 +52,7 @@
     },
     {
       "title": "Explore DevFests Pasados",
-      "links": [
-        {
+      "links": [{
           "name": "Cali DevFest 2015",
           "url": "#",
           "newTab": true
@@ -66,8 +66,7 @@
     },
     {
       "title": "Recursos para eventos",
-      "links": [
-        {
+      "links": [{
           "name": "Quiero ser pratrocinador",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
@@ -218,8 +217,7 @@
   },
   "aboutOrganizerBlock": {
     "image": "/images/team.jpg",
-    "blocks": [
-      {
+    "blocks": [{
         "title": "Organizadores",
         "description": "<a href='http://gdgcali.com' target='_blank'>GDG Cali</a>",
         "callToAction": {

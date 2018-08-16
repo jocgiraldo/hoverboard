@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
-  <meta name="description" content="{$ description $}">
+  <meta name="description" content="{$ seoDescription $}">
   <meta name="keywords" content="{$ keywords $}">
   <meta name="author" content="{$ organizer.name $}">
   <meta name="generator" content="Project Hoverboard">
@@ -45,8 +45,8 @@
 
   <!-- G+ sharing meta data -->
   <meta itemprop="name" content="{$ title $}">
-  <meta itemprop="description" content="{$ description $}">
-  <meta itemprop="image" content="{$ image if image.startsWith('http') else (url + image) $}">
+  <meta itemprop="description" content="{$ seoDescription $}">
+  <meta itemprop="image" content="{$ socialImage $}">
   <meta itemprop="startDate" content="{$ startDate $}">
   <meta itemprop="endDate" content="{$ endDate $}">
 
@@ -55,17 +55,17 @@
   <meta property="og:site_name" content="{$ title $}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{$ url $}">
-  <meta property="og:description" content="{$ description $}">
+  <meta property="og:description" content="{$ seoDescription $}">
   <meta property="og:type" content="Event">
-  <meta property="og:image" content="{$ image if image.startsWith('http') else (url + image) $}">
-  <meta property="og:image:type" content="image/jpeg"/>
+  <meta property="og:image" content="{$ socialImage $}">
+  <meta property="og:image:type" content="image/jpeg" />
 
   <!-- Twitter meta data -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:creator" content="@{$ organizer.twitter $}">
   <meta name="twitter:title" content="{$ title $}">
-  <meta name="twitter:description" content="{$ description $}">
-  <meta name="twitter:image" content="{$ image if image.startsWith('http') else (url + image) $}">
+  <meta name="twitter:description" content="{$ seoDescription $}">
+  <meta name="twitter:image" content="{$ socialImage $}">
   <meta name="twitter:label1" value="{$ location.label $}">
   <meta name="twitter:data1" value="{$ location.name $}">
   <meta name="twitter:label2" value="">
@@ -77,9 +77,12 @@
   <link rel="preconnect" href="https://firestore.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <script>
-
-    window.Polymer = { rootPath: '{$ basepath $}' };
-    window.HOVERBOARD = { Elements: {} };
+    window.Polymer = {
+      rootPath: '{$ basepath $}'
+    };
+    window.HOVERBOARD = {
+      Elements: {}
+    };
 
     function loadFirebaseModules(modules) {
       return Promise.all(
@@ -101,11 +104,11 @@
     }
 
     loadFirebaseModules([
-      'firebase-app',
-      'firebase-firestore',
-      'firebase-auth',
-      'firebase-messaging',
-    ])
+        'firebase-app',
+        'firebase-firestore',
+        'firebase-auth',
+        'firebase-messaging',
+      ])
       .then(() => {
         firebase.initializeApp({
           apiKey: '{$ firebase.apiKey $}',
@@ -117,7 +120,9 @@
         });
 
         const firestore = firebase.firestore();
-        firestore.settings({ timestampsInSnapshots: true });
+        firestore.settings({
+          timestampsInSnapshots: true
+        });
         firebase.firestore().enablePersistence()
           .catch(() => {
             console.warn('DB offline support not available'); // eslint-disable-line no-console
@@ -135,8 +140,8 @@
   <script src="scripts/service-worker-registration.js" async defer></script>
 
   <style>
-
-    html, body {
+    html,
+    body {
       min-height: 100%;
       height: 100%;
     }
@@ -157,6 +162,7 @@
     }
 
     /* styling for render while resources are loading */
+
     hoverboard-app[unresolved] {
       padding: 0 16px;
       display: block;
@@ -167,28 +173,30 @@
       color: #202020;
       overflow: visible;
     }
+
   </style>
 
 </head>
 
 <body>
 
-<!--<hoverboard-app unresolved>{$ title $}</hoverboard-app>-->
+  <!--<hoverboard-app unresolved>{$ title $}</hoverboard-app>-->
 
-<noscript>
-  Please enable JavaScript to view this website.
-</noscript>
+  <noscript>
+    Please enable JavaScript to view this website.
+  </noscript>
 
-<script>
-  window.performance && performance.mark && performance.mark('index.html');
+  <script>
+    window.performance && performance.mark && performance.mark('index.html');
 
-  window.onload = function () {
-    const indexRenderTime = window.measureDuration && window.measureDuration('index.html');
-    if (indexRenderTime) {
-      ga('send', 'timing', 'index.html', 'render', indexRenderTime);
-    }
-  };
-</script>
+    window.onload = function () {
+      const indexRenderTime = window.measureDuration && window.measureDuration('index.html');
+      if (indexRenderTime) {
+        ga('send', 'timing', 'index.html', 'render', indexRenderTime);
+      }
+    };
+
+  </script>
 
 </body>
 
