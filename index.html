@@ -77,12 +77,8 @@
   <link rel="preconnect" href="https://firestore.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <script>
-    window.Polymer = {
-      rootPath: '{$ basepath $}'
-    };
-    window.HOVERBOARD = {
-      Elements: {}
-    };
+    window.Polymer = { rootPath: '{$ basepath $}' };
+    window.HOVERBOARD = { Elements: {} };
 
     function loadFirebaseModules(modules) {
       return Promise.all(
@@ -120,9 +116,7 @@
         });
 
         const firestore = firebase.firestore();
-        firestore.settings({
-          timestampsInSnapshots: true
-        });
+        firestore.settings({ timestampsInSnapshots: true });
         firebase.firestore().enablePersistence()
           .catch(() => {
             console.warn('DB offline support not available'); // eslint-disable-line no-console
