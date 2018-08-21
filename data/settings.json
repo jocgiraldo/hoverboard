@@ -104,15 +104,15 @@
     "short": "Cali, Colombia",
     "address": "Calle 5 # 62-00 Barrio Pampalinda",
     "pointer": {
-      "latitude": 3.403156,
-      "longitude": -76.547350,
+      "latitude": 3.4035767,
+      "longitude": -76.5495714,
       "zoom": 10
     },
     "mapCenter": {
       "latitude": 3.403156,
       "longitude": -76.547350
     },
-    "description": "Universidad Santiago de Cali"
+    "description": "En la Universidad Santiago de Cali (USC) llevaremos acabo uno de los eventos tecnológicos más grandes del SurOccidente Colombiano. El registro será en el auditorio Pedro Elias Cerrano."
   },
   "mediaQueries": {
     "xs": {
