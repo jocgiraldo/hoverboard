@@ -100,20 +100,20 @@
   },
   "location": {
     "label": "Ubicación",
-    "name": "Camara de comercio de Cali",
+    "name": "Universidad Santiago de Cali",
     "city": "Cali",
     "short": "Cali, Colombia",
     "address": "",
     "pointer": {
-      "latitude": 3.451707,
-      "longitude": -76.535537,
+      "latitude": 3.4035767,
+      "longitude": -76.5495714,
       "zoom": 10
     },
     "mapCenter": {
       "latitude": 3.451707,
       "longitude": -76.535537
     },
-    "description": "En la Cámara de Comercio de Cali cumplimos la función jurídica que nos delegó el Estado de registrar las empresas existentes en la ciudad de Cali y en los municipios de Dagua, Jamundí, La Cumbre, Vijes y Yumbo."
+    "description": "En la Universidad Santiago de Cali (USC) llevaremos acabo uno de los eventos tecnológicos más grandes del SurOccidente Colombiano. El registro será en el auditorio Pedro Elias Cerrano."
   },
   "mediaQueries": {
     "xs": {
