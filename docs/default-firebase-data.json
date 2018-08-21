@@ -644,7 +644,7 @@
     {
       "name" : "Jose David Giraldo",
       "photo" : "/images/people/oleh_zasadnyy.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Exponenetes%2FJoseDavidGiraldo.png?alt=media&token=ef42be75-de2b-4ce7-a87c-4ef6abd11a46",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FJoseDavidGiraldo.png?alt=media&token=939268fe-6267-4f35-88b9-50a6c94aa95b",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://www.facebook.com/jocgiraldo",
@@ -662,7 +662,7 @@
         "link" : "https://instagram.com/jocgiraldo",
         "name" : "Instagram"
       } ],
-      "title" : "Website and Speaker"
+      "title" : "Android Developer"
     },
     {
       "name" : "William Penagos",
@@ -690,7 +690,7 @@
     {
       "name" : "Juan Guillermo Gomez",
       "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Exponenetes%2FJuanGuillermoGomez.jpg?alt=media&token=0be24b1b-a1b4-405f-8a6b-608518e81cf2",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FJuanGuillermoGomez.jpg?alt=media&token=9ef09ad5-e1ae-4408-b3e5-ed1bc70fa66d",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/+JuanGuillermoGomezTorres",
@@ -705,15 +705,15 @@
         "name" : "Twitter"
       }, {
         "icon" : "github",
-        "link" : "https://github.com/Janamou",
+        "link" : "https://github.com/jggomezt",
         "name" : "GitHub"
       } ],
       "title" : "Google Expert Firebase"
     },
     {
       "name" : "Jose Berna",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FJoseBerna.jpeg?alt=media&token=dd7c00eb-108c-47ae-a119-7f0fd476abad",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FJoseBerna.jpeg?alt=media&token=dd7c00eb-108c-47ae-a119-7f0fd476abad",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/",
@@ -735,8 +735,8 @@
     },
     {
       "name" : "Camilo Andres Alzate",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FCamiloAlzate.jpg?alt=media&token=60a8e6b0-73d5-4f63-a0f5-80d9b7b96aa9",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FCamiloAlzate.jpg?alt=media&token=60a8e6b0-73d5-4f63-a0f5-80d9b7b96aa9",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/+CamiloAlzate",
@@ -757,96 +757,104 @@
       "title" : "Developer FullStack"
     },
     {
-      "name" : "Jose Luis Peña",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "name" : "Jorge Luis Peña",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FJorgeLuisPe%C3%B1a.jpeg?alt=media&token=7a6775de-5333-4078-a7c5-dab8acd19a52",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FJorgeLuisPe%C3%B1a.jpeg?alt=media&token=7a6775de-5333-4078-a7c5-dab8acd19a52",
       "socials" : [ {
         "icon" : "gplus",
-        "link" : "https://plus.google.com/",
+        "link" : "https://plus.google.com/+JorgeLuisPeñaLopez",
         "name" : "Google+"
       }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/",
+        "link" : "https://www.linkedin.com/in/jorge-luis-peña-lopez/",
         "name" : "LinkedIn"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/",
+        "link" : "https://twitter.com/JLPenaLopez",
         "name" : "Twitter"
       }, {
         "icon" : "github",
-        "link" : "https://github.com/",
+        "link" : "https://github.com/JlplZeroCool",
         "name" : "GitHub"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/jorge.l.penalopez",
+        "name" : "Facebook"
       } ],
       "title" : "Android Developer"
     },
     {
       "name" : "Carlos F. Arboleda",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FCarlosArboleda.jpeg?alt=media&token=7da07034-6e55-4046-8477-47e157efa1ff",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FCarlosArboleda.jpeg?alt=media&token=7da07034-6e55-4046-8477-47e157efa1ff",
       "socials" : [ {
         "icon" : "gplus",
-        "link" : "https://plus.google.com/",
+        "link" : "https://plus.google.com/+CarlosFArboleda",
         "name" : "Google+"
       }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/",
+        "link" : "https://www.linkedin.com/in/carboleda",
         "name" : "LinkedIn"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/",
+        "link" : "https://twitter.com/cfarboleda",
         "name" : "Twitter"
       }, {
         "icon" : "github",
-        "link" : "https://github.com/",
+        "link" : "https://github.com/carboleda",
         "name" : "GitHub"
       } ],
       "title" : "Android Developer"
     },
     {
-      "name" : "Johnatan",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "name" : "Johnatan Alexis Urbano",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FJohnatanAlexisUrbano.jpeg?alt=media&token=684b7f02-d428-44cc-8dfd-571a1e1666fb",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FJohnatanAlexisUrbano.jpeg?alt=media&token=684b7f02-d428-44cc-8dfd-571a1e1666fb",
       "socials" : [ {
         "icon" : "gplus",
-        "link" : "https://plus.google.com/",
+        "link" : "https://plus.google.com/u/0/100177096488975344137",
         "name" : "Google+"
       }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/",
+        "link" : "https://www.linkedin.com/in/johnatan-alexis-urbano-guzman-5099b232/",
         "name" : "LinkedIn"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/",
+        "link" : "https://twitter.com/johnurbaguz",
         "name" : "Twitter"
       }, {
-        "icon" : "github",
-        "link" : "https://github.com/",
-        "name" : "GitHub"
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/alexurguz",
+        "name" : "Facebook"
+      }, {
+        "icon" : "instagram",
+        "link" : "https://www.instagram.com/johnurbaguz/",
+        "name" : "Istagram"
       } ],
-      "title" : "Android Developer"
+      "title" : "Software Developer"
     },
     {
-      "name" : "Stiven",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
+      "name" : "Stiven Castillo",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FStivenCastillo.jpeg?alt=media&token=54d5766e-d56f-4504-a1b3-d3402687bfae",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Organizadores%2FStivenCastillo.jpeg?alt=media&token=54d5766e-d56f-4504-a1b3-d3402687bfae",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/",
-        "name" : "Google+"
+        "icon" : "instragram",
+        "link" : "https://www.instagram.com/bacabange/",
+        "name" : "Instagram"
       }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/",
+        "link" : "https://www.linkedin.com/in/stivncastillo/",
         "name" : "LinkedIn"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/",
+        "link" : "https://twitter.com/bacabange",
         "name" : "Twitter"
       }, {
         "icon" : "github",
-        "link" : "https://github.com/",
+        "link" : "https://github.com/bacabange",
         "name" : "GitHub"
       } ],
-      "title" : "Designer"
+      "title" : "Developer/Designer"
     },
     {
       "name" : "Luis Alberto Sinisterrra",
