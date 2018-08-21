@@ -170,21 +170,21 @@
   },
   "sessions" : {
     "100" : {
-      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+      "description" : "Registro ",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title" : "Registration & morning Coffee"
+      "title" : "Registro "
     },
     "101" : {
-      "complexity" : "Beginner",
-      "description" : " ",
+      "complexity" : "Intermedio",
+      "description" : "En esta charla hablaremos de cómo crear una arquitectura para una aplicación Android que utilize los principios de ReactX, ModelView en el lenguaje de programación Kotlin.<br>Vamos a tratar los siguientes temas:<br>-Kotlin<br>-ReactX<br>-ViewModel<br>-Retrofit",
       "language" : "Spanish",
       "speakers" : [ "santiago_carrillo" ],
       "tags" : [ "Android" ],
-      "title" : "Android for Beginner"
+      "title" : "Capa de Red en Android usando Kotlin + ReactX + ViewModel"
     },
     "102" : {
-      "complexity" : "Beginner",
+      "complexity" : "Intermedio",
       "description" : "Los sistemas desplegados en la nube deben seguir algunas consideraciones de diseño y arquitectura, que garanticen su correcto funcionamiento y mantenimiento, además de que optimicen costos y recursos. Esta charla pretende introducir las consideraciones más importantes de arquitectura para estos sistemas, y los mecanismos que ofrece Google Cloud para implementarlas.",
       "language" : "Spanish",
       "speakers" : [ "manuel_zapata" ],
@@ -192,20 +192,20 @@
       "title" : "Arquitectura para sistemas en la nube con Google Cloud"
     },
     "103" : {
-      "complexity" : "Intermediate",
-      "description" : " ",
+      "complexity" : "Intermedio",
+      "description" : "Una muestra de como se puede realizar un proceso automático de despliegue de aplicaciones  con las herramientas de GCP ",
       "language" : "Spanish",
       "speakers" : [ "carlos_arturo_prieto" ],
       "tags" : [ "Cloud" ],
-      "title" : "Cloud"
+      "title" : "CI/CD con GCP"
     },
     "104" : {
-      "complexity" : "Beginner",
-      "description" : " ",
+      "complexity" : "Principiante",
+      "description" : "En varias ocasiones nos ha tocado crear tareas que se ejecuten en segundo plano en Android, para ello hemos creado desde servicios, pasando por JobScheduler hasta usando AlarmManager. Sin embargo cada solución ha tenido un problema o restricción que no ha llegado a una satisfacción por completa. Es pos eso que el equipo de Android de Google lanzo este año el Workmanager  un componente de arquitectura que hace parte del Android Jetpack el cual permite ejecutar tareas en background de forma segura y robusta. En esta conferencia hablaremos de las soluciones actuales y como pasar a workmanager conociendo sus beneficios y flexibilidad.",
       "language" : "Spanish",
-      "speakers" : [ "nicolas_bianchi" ],
-      "tags" : [ "UX" ],
-      "title" : "UX"
+      "speakers" : [ "juan_guillermo_gomez" ],
+      "tags" : [ "Firebase" ],
+      "title" : "Tareas en background  en Android de formar robusta con el WorkManager"
     },
     "105" : {
       "complexity" : "Beginner",
@@ -219,7 +219,7 @@
       "description" : "Cofeeeeee!",
       "icon" : "breack-coffe",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title" : "Break Coffe"
+      "title" : "Break"
     },
     "106" : {
       "complexity" : "Beginner",
@@ -238,10 +238,10 @@
       "title" : "Aplicaciones Web Progresivas (PWA) - Y eso con qué se come?"
     },
     "300" : {
-      "description" : "Fooooooood!",
+      "description" : "Espacio para almorzar",
       "icon" : "lunhc",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title" : "Lunch"
+      "title" : "Almuerzo"
     },
     "108" : {
       "complexity" : "Intermediate",
@@ -253,10 +253,11 @@
     },
     "109" : {
       "complexity" : "Beginner",
+      "description" : "Aprende a escribir aplicaciones mantenibles en Angular independientemente del tamaño de tu equipo y su complejidad, utilizando los mejores consejos de diseño de architecturas.<br>Estás en medio de una pesadilla cuando abres un proyecto legado y de repente los tabs y los espacios se encuentran un mismo archivo, los módulos son importados en todas partes y los singletons no son compartidos.<br>En estos casos necesitas un estándar: Un protocolo bien definido sobre cómo escribir tu código enmarcado en una arquitectura.<br>En esta charla aprenderás a:<br>-Manejar el crecimiento de tu base de código de manera eficiente<br>-Usar las mejores prácticas en módulos<br>-Nombrar las variables de manera correcta<br>-Gestionar el estado de tu aplicación efectivamente<br>Escalar tu estructura de carpetas<br>Imponer estándares de código<br>Reutilizar tu código al máximo",
       "language" : "Spanish",
-      "speakers" : [ "jose_ospina" ],
+      "speakers" : [ "juan_herrera" ],
       "tags" : [ "Web" ],
-      "title" : "How much money Firebase can save you"
+      "title" : "Scalable Angular Architectures"
     },
     "110" : {
       "complexity" : "Intermediate",
@@ -268,11 +269,11 @@
     },
     "111" : {
       "complexity" : "Intermediate",
-      "description" : "En varias ocasiones nos ha tocado crear tareas que se ejecuten en segundo plano en Android, para ello hemos creado desde servicios, pasando por JobScheduler hasta usando AlarmManager. Sin embargo cada solución ha tenido un problema o restricción que no ha llegado a una satisfacción por completa. Es pos eso que el equipo de Android de Google lanzo este año el Workmanager  un componente de arquitectura que hace parte del Android Jetpack el cual permite ejecutar tareas en background de forma segura y robusta. En esta conferencia hablaremos de las soluciones actuales y como pasar a workmanager conociendo sus beneficios y flexibilidad.",
+      "description" : "",
       "language" : "Spanish",
-      "speakers" : [ "juan_guillermo_gomez" ],
-      "tags" : [ "Firebase" ],
-      "title" : "Tareas en background  en Android de formar robusta con el WorkManager"
+      "speakers" : [ "nicolas_bianchi" ],
+      "tags" : [ "UX" ],
+      "title" : "UX"
     },
     "112" : {
       "complexity" : "Intermediate",
@@ -510,6 +511,32 @@
         "name" : "GitHub"
       } ],
       "title" : "Desarrollador"
+    },
+    "Juan_Herrera" : {
+      "bio" : "Juan Herrera (@jdjuan) is a Google Developer Expert in Angular. He is the Head of Front-End Development at Yuxi Global 💾 where he provides consultancy in Angular to different companies. Organizer of Angular Medellin and NgColombia (The first Angular Conference in Latin America). Juan loves 💙 creating social web apps. In his spare time he enjoys dancing 🕺 and singing 🎤",
+      "company" : "Google Developer Expert",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
+      "country" : "Cali, Colombia",
+      "featured" : false,
+      "name" : "Juan Herrera",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FJuan_Herrera.jpg?alt=media&token=82015f21-16a5-489f-ba8a-17712916ef01",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FJuan_Herrera.jpg?alt=media&token=82015f21-16a5-489f-ba8a-17712916ef01",
+      "shortBio" : "Juan Herrera (@jdjuan) is a Google Developer Expert in Angular. He is the Head of Front-End Development at Yuxi Global 💾 where he provides consultancy in Angular to different companies. Organizer of Angular Medellin and NgColombia (The first Angular Conference in Latin America).",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/juandavidherrera/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jdjuan",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/jdjuan",
+        "name" : "GitHub"
+      } ],
+      "title" : "Ingeniero de sistemas"
     },
     "manuel_zapata" : {
       "bio" : "Ingeniero de sistemas que vive de escribir código desde el año 2005. Ha trabajado como desarrollador y arquitecto de software en distintos proyectos en Latinoamérica, Estados Unidos, Europa e India. Actualmente, está dedicado a enseñar a profesionales de tecnología como convertirse en arquitectos de software.",
