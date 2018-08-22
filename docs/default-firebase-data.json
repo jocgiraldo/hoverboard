@@ -47,6 +47,10 @@
     "title" : "Patrocinadores"
   }, {
     "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FU-Santiago-de-Cali.jpg?alt=media&token=2c5ed21e-a462-4e9e-862e-97d47c5c91cd",
+      "name" : "Universidad Santiago de Cali",
+      "url" : "http://www.usc.edu.co/"
+    }, {
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FTecnoparque.png?alt=media&token=ff20dba4-c78c-4845-a809-7019f290f97a",
       "name" : "Sena Tecnoparque nodo Cali",
       "url" : "http://tecnoparque.sena.edu.co/sedes/SedeCali/Paginas/default.aspx"
