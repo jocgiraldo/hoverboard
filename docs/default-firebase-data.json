@@ -58,6 +58,11 @@
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Flogo-el-lab.png?alt=media&token=e39ac1dc-90c3-48ac-a29f-f1b1ef67f966",
       "name" : "El Lab Coworking",
       "url" : "https://el-lab.co/"
+    },
+    {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FPlayTech.png?alt=media&token=a1abecfa-a5dd-46b3-888e-af6c39f6eeb9",
+      "name" : "Play Tech",
+      "url" : "https://www.playtechla.com/"
     }, {
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Flogo-plural.desk.png?alt=media&token=3f484ba0-e441-4c2b-9f29-e78b22dcbc6b",
       "name" : "Plural Desk",
@@ -521,7 +526,7 @@
       "company" : "Google Developer Expert",
       "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
-      "country" : "Bogota, Colombia",
+      "country" : "Medellin, Colombia",
       "featured" : false,
       "name" : "Juan Herrera",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FJuan_Herrera.jpg?alt=media&token=82015f21-16a5-489f-ba8a-17712916ef01",
