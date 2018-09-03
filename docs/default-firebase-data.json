@@ -209,7 +209,7 @@
       "title" : "CI/CD con GCP"
     },
     "104" : {
-      "complexity" : "Principiante",
+      "complexity" : "Intermedio",
       "description" : "En varias ocasiones nos ha tocado crear tareas que se ejecuten en segundo plano en Android, para ello hemos creado desde servicios, pasando por JobScheduler hasta usando AlarmManager. Sin embargo cada solución ha tenido un problema o restricción que no ha llegado a una satisfacción por completa. Es pos eso que el equipo de Android de Google lanzo este año el Workmanager  un componente de arquitectura que hace parte del Android Jetpack el cual permite ejecutar tareas en background de forma segura y robusta. En esta conferencia hablaremos de las soluciones actuales y como pasar a workmanager conociendo sus beneficios y flexibilidad.",
       "language" : "Spanish",
       "speakers" : [ "juan_guillermo_gomez" ],
@@ -253,7 +253,7 @@
       "title" : "Almuerzo"
     },
     "108" : {
-      "complexity" : "Intermediate",
+      "complexity" : "Intermedio",
       "description" : " ",
       "language" : "Spanish",
       "speakers" : [ "santiago_carrillo" ],
@@ -269,15 +269,15 @@
       "title" : "Scalable Angular Architectures"
     },
     "110" : {
-      "complexity" : "Intermediate",
-      "description" : "Una muestra de como se puede realizar un proceso automático de despliegue de aplicaciones  con las herramientas de GCP ",
+      "complexity" : "Intermedio",
+      "description" : "Deploy a Java application to Kubernetes on Google Kubernetes Engine",
       "language" : "Spanish",
       "speakers" : [ "carlos_arturo_prieto" ],
       "tags" : [ "Cloud" ],
-      "title" : "CI/CD con GCP"
+      "title" : "Deploy a Java application to Kubernetes on Google Kubernetes Engine"
     },
     "111" : {
-      "complexity" : "Intermediate",
+      "complexity" : "Intermedio",
       "description" : "",
       "language" : "Spanish",
       "speakers" : [ "nicolas_bianchi" ],
@@ -285,7 +285,7 @@
       "title" : "UX"
     },
     "112" : {
-      "complexity" : "Intermediate",
+      "complexity" : "Intermedio",
       "description" : "El futuro de la web y las aplicaciones son las Aplicaciones Web Progresivas",
       "language" : "Spanish",
       "speakers" : [ "william_penagos" ],
@@ -299,7 +299,7 @@
       "title" : "Break Coffe"
     },
     "113" : {
-      "complexity" : "Intermediate",
+      "complexity" : "Intermedio",
       "description" : " ",
       "language" : "Spanish",
       "speakers" : [ "nicolas_bianchi" ],
@@ -307,15 +307,15 @@
       "title" : "UX"
     },
     "114" : {
-      "complexity" : "Intermediate",
+      "complexity" : "Intermedio",
       "description" : "Conoce el sistema de navegación de google maps para android en tiempo real con firebase. Aprende a crear una aplicación como Uber o Rappi. ",
       "language" : "Spanish",
       "speakers" : [ "jose_david_giraldo" ],
       "tags" : [ "Android" ],
-      "title" : "Sistema de navegacion en tiempo real"
+      "title" : "Sistema de navegacion en tiempo real en android"
     },
     "115" : {
-      "complexity" : "Intermediate",
+      "complexity" : "Intermedio",
       "description" : " ",
       "language" : "Spanish",
       "speakers" : [ "frank_nicols" ],
@@ -521,7 +521,7 @@
       } ],
       "title" : "Desarrollador"
     },
-    "Juan_Herrera" : {
+    "juan_herrera" : {
       "bio" : "Juan Herrera (@jdjuan) is a Google Developer Expert in Angular. He is the Head of Front-End Development at Yuxi Global 💾 where he provides consultancy in Angular to different companies. Organizer of Angular Medellin and NgColombia (The first Angular Conference in Latin America). Juan loves 💙 creating social web apps. In his spare time he enjoys dancing 🕺 and singing 🎤",
       "company" : "Google Developer Expert",
       "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2FGoogleDevExpert.jpeg?alt=media&token=f614802a-ea63-4fc1-acb0-d17894453b92",
