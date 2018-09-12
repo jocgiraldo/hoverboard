@@ -286,11 +286,11 @@
     },
     "112" : {
       "complexity" : "Intermedio",
-      "description" : "El futuro de la web y las aplicaciones son las Aplicaciones Web Progresivas",
+      "description" : "Facebook ha liberado una versión de React VR llamada React 360, esta tecnología es Open Source lo cual nos permite manipular el core del framework y usar libremente para nuestras creaciones multiplataforma (escritorio, móvil o web).  Dicho lo anterior, el workshop pretende dar bases sólidas para construir nuestras propias aplicaciones web en 3D o 360 usando como framework React.",
       "language" : "Spanish",
       "speakers" : [ "william_penagos" ],
       "tags" : [ "Web" ],
-      "title" : "Progressive Web Applications - The new web"
+      "title" : "Tu web en 3D con React 360"
     },
     "400" : {
       "description" : "Cofeeeeee!",
@@ -649,7 +649,7 @@
       "title" : "Ingeniero de sistemas"
     },
     "william_penagos" : {
-      "bio" : "Apasionado por escribir código, desarrollador de Software FullStack con JavaScript y Python con más de 6 años de experiencia, tengo conocimiento de amplias tecnologías como ReactJS, Angular, VueJS, NodeJS, RabbitMQ, el stack de herramientas de Firebase y AWS, entre otras. Soy lider del GDG Cali y me apaciona compartir mi conocimiento en las comunidades de desarrolladores, tengo una basta habilidad 7 años de experiencia para desarrollar Aplicaciones Web Progresivas y algoritmos de optimización en código.",
+      "bio" : "Lider de Desarrollo Web en Source Meridian con más de 6 años de experiencia en tecnologías JavaScript tanto Front-end como Back-end, Full Stack (React, Next, Vue, Nuxt, Angular, Rxjs, Service Workers, GraphQL, Sequelize, etc). Un apasionado por el código y las comunidades de desarrollo, activo miembro de GDG y CaliJS en Colombia, mentor de React y Vue.",
       "company" : "Google Developers Group",
       "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Patrocinadores%2Fgdg.jpeg?alt=media&token=d8c3a5ab-49f5-42f3-bb26-3d9db11dc263",
@@ -658,7 +658,7 @@
       "name" : "William Penagos",
       "photo" : "/images/people/ihor_dvoretskyi.jpg",
       "photoUrl" : "https://avatars2.githubusercontent.com/u/6068654?v=4",
-      "shortBio" : "Apasionado por escribir código, desarrollador de Software FullStack con JavaScript y Python con más de 6 años de experiencia, tengo conocimiento de amplias tecnologías como ReactJS, Angular, VueJS, NodeJS, RabbitMQ, el stack de herramientas de Firebase y AWS, entre otras. Soy lider del GDG Cali y me apaciona compartir mi conocimiento en las comunidades de desarrolladores, tengo una basta habilidad 7 años de experiencia para desarrollar Aplicaciones Web Progresivas y algoritmos de optimización en código.",
+      "shortBio" : "Lider de Desarrollo Web en Source Meridian con más de 6 años de experiencia en tecnologías JavaScript tanto Front-end como Back-end, Full Stack (React, Next, Vue, Nuxt, Angular, Rxjs, Service Workers, GraphQL, Sequelize, etc). Un apasionado por el código y las comunidades de desarrollo, activo miembro de GDG y CaliJS en Colombia, mentor de React y Vue.",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/william-penagos-zambrano-67262911b/",
