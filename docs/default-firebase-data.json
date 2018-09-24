@@ -452,8 +452,8 @@
       "country" : "Cali, Colombia",
       "featured" : false,
       "name" : "Frank Nicols",
-      "photo" : "http://franknicols.com/wp-content/uploads/2018/03/23.png",
-      "photoUrl" : "http://franknicols.com/wp-content/uploads/2018/03/23.png",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FFrank.jpeg?alt=media&token=839b1725-43c7-490b-9c95-a09390f5a2be",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcali-devfest-2018.appspot.com/o/Ponentes%2FFrank.jpeg?alt=media&token=839b1725-43c7-490b-9c95-a09390f5a2begit",
       "shortBio" : "Frank Nicols es un joven Administrador de empresas, nació el 6 de mayo en 1988, en la ciudad de Cali, Colombia. Apasionado por el mundo de la ilusión y su fuerte es la Magia de gran impacto para eventos corporativos, con una trayectoria de más de 16 años",
       "socials" : [ {
         "icon" : "instagram",
@@ -905,29 +905,6 @@
         "name" : "GitHub"
       } ],
       "title" : "Developer/Designer"
-    },
-    {
-      "name" : "Luis Alberto Sinisterrra",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://avatars1.githubusercontent.com/u/5832217",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/",
-        "name" : "Google"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/",
-        "name" : "GitHub"
-      } ],
-      "title" : "Developer"
     }
    ],
     "title" : "Organizadores"
