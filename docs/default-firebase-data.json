@@ -224,11 +224,11 @@
     },
     "104" : {
       "complexity" : "Intermedio",
-      "description" : "En varias ocasiones nos ha tocado crear tareas que se ejecuten en segundo plano en Android, para ello hemos creado desde servicios, pasando por JobScheduler hasta usando AlarmManager. Sin embargo cada solución ha tenido un problema o restricción que no ha llegado a una satisfacción por completa. Es pos eso que el equipo de Android de Google lanzo este año el Workmanager  un componente de arquitectura que hace parte del Android Jetpack el cual permite ejecutar tareas en background de forma segura y robusta. En esta conferencia hablaremos de las soluciones actuales y como pasar a workmanager conociendo sus beneficios y flexibilidad.",
+      "description" : "Empezamos de cero en experiencia y conocimiento en desarrollo móvil nativo en Android, cometiendo muchos errores, tratando de aprender y hacer lo mejor posible por entregar un producto que funcione y que cumpla las expectativas del usuario, a veces sin importar cómo está construido. Luego vamos aprendiendo en meetups de comunidades, compartiendo con pares, leyendo, codeando hasta que vamos entendiendo los atributos de calidad de una aplicación y cómo lograrlos. En esta charla hablaremos a partir de la experiencia, cómo hemos cometido errores, cómo hemos aprendido de ellos y cómo poco a poco construimos una app mantenible y escalable, desde un punto de vista.",
       "language" : "Spanish",
       "speakers" : [ "juan_guillermo_gomez" ],
       "tags" : [ "Firebase" ],
-      "title" : "Tareas en background  en Android de formar robusta con el WorkManager"
+      "title" : "From scratch to a scalable and maintainable architecture in Android"
     },
     "105" : {
       "complexity" : "Beginner",
